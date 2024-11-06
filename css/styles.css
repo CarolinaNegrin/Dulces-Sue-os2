@@ -603,8 +603,8 @@ progress {
 }
 
 .img-fluid {
-  max-width: 500px;
-  height: 500px;
+  max-width: 50%;
+  height: 50%;
 }
 
 .img-thumbnail {
@@ -4279,7 +4279,7 @@ textarea.form-control-lg {
 .card-img,
 .card-img-top,
 .card-img-bottom {
-  width: 100%;
+  width: 80%;
 }
 
 .card-img,
@@ -10970,7 +10970,7 @@ p {
 }
 @media (min-width: 992px) {
   .intro .intro-img {
-    width: 75%;
+    width: 50%;
     float: right;
   }
   .intro .intro-text {
@@ -11001,7 +11001,7 @@ p {
   .product-item .product-item-img {
     position: relative;
     z-index: 0;
-    max-width: 60vw;
+    max-width: 50%;
   }
   .product-item .product-item-description {
     position: relative;
